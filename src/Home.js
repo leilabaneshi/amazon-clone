@@ -34,21 +34,21 @@ function Home() {
             </div>
             <div className="home__row">
                 <Product
-                    id={1}
+                    id={4}
                     title='Panasonic LUMIX Professional 8-18mm Camera Lens, G LEICA DG VARIO-ELMARIT, F2.8-4.0 ASPH, Mirrorless Micro Four Thirds, H-E08018 (Black)'
                     price={1000}
                     rating={5}
                     image='https://images-na.ssl-images-amazon.com/images/I/61cv58nSL%2BL._AC_UL270_SR270,270_.jpg'
                 />
                 <Product
-                    id={1}
+                    id={5}
                     title='Panasonic LUMIX Professional 8-18mm Camera Lens, G LEICA DG VARIO-ELMARIT, F2.8-4.0 ASPH, Mirrorless Micro Four Thirds, H-E08018 (Black)'
                     price={1000}
                     rating={5}
                     image='https://images-na.ssl-images-amazon.com/images/I/61cv58nSL%2BL._AC_UL270_SR270,270_.jpg'
                 />
                 <Product
-                    id={1}
+                    id={6}
                     title='Panasonic LUMIX Professional 8-18mm Camera Lens, G LEICA DG VARIO-ELMARIT, F2.8-4.0 ASPH, Mirrorless Micro Four Thirds, H-E08018 (Black)'
                     price={1000}
                     rating={5}
@@ -58,21 +58,21 @@ function Home() {
             </div>
             <div className="home__row">
                 <Product
-                    id={1}
+                    id={7}
                     title='Panasonic LUMIX Professional 8-18mm Camera Lens, G LEICA DG VARIO-ELMARIT, F2.8-4.0 ASPH, Mirrorless Micro Four Thirds, H-E08018 (Black)'
                     price={1000}
                     rating={5}
                     image='https://images-na.ssl-images-amazon.com/images/I/61cv58nSL%2BL._AC_UL270_SR270,270_.jpg'
                 />
                 <Product
-                    id={1}
+                    id={8}
                     title='Panasonic LUMIX Professional 8-18mm Camera Lens, G LEICA DG VARIO-ELMARIT, F2.8-4.0 ASPH, Mirrorless Micro Four Thirds, H-E08018 (Black)'
                     price={1000}
                     rating={5}
                     image='https://images-na.ssl-images-amazon.com/images/I/61cv58nSL%2BL._AC_UL270_SR270,270_.jpg'
                 />
                 <Product
-                    id={1}
+                    id={9}
                     title='Panasonic LUMIX Professional 8-18mm Camera Lens, G LEICA DG VARIO-ELMARIT, F2.8-4.0 ASPH, Mirrorless Micro Four Thirds, H-E08018 (Black)'
                     price={1000}
                     rating={5}
